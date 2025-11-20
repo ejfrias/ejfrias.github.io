@@ -1,15 +1,7 @@
-const CACHE_NAME = "pokedex-v2";
-const CRITICAL_ASSETS = ["/", "/index.html", "/data/index.json"];
+const CACHE_NAME = "pokedex-v3";
 
-// Install service worker and pre-cache critical assets
+// Install service worker
 self.addEventListener("install", (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(CRITICAL_ASSETS).catch((err) => {
-        console.error("Failed to cache critical assets:", err);
-      });
-    })
-  );
   self.skipWaiting();
 });
 
