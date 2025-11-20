@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/pokedex/_next/static/chunks/ff1a16fafef87110.js","/pokedex/_next/static/chunks/247eb132b7f7b574.js"],"default"]
 3:I[37457,["/pokedex/_next/static/chunks/ff1a16fafef87110.js","/pokedex/_next/static/chunks/247eb132b7f7b574.js"],"default"]
-0:{"buildId":"gb8vUDISzt6m4qPq3aj4s","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"UXqXwApjlvl0zE3i8x_D-","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
